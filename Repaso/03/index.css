@@ -1,0 +1,14 @@
+body {
+	padding: 0;
+	margin: 0 auto;
+	max-width: 1080px;
+	height: 400;
+}
+
+.text {
+	background-color: #cccccc;
+	color: #212121;
+	font-size: 42px;
+	font-weight: bold;
+	padding: 20px;
+}

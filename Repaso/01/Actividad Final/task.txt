@@ -1,0 +1,11 @@
+1) Creen una clase que genere Objectos/Arrays.
+2) Utilizar esos Objectos para mostrar en pantalla una intenfarce de usuario
+3) (Selebox) - Crear un eventListener que cuando le de a la flecha del teclado hacia abajo Me muestre en Consola los elementos disponibles para seleccionar.
+4) Crear un eventListener que cuando le de click al boton enviar me muestre un mensaje de que ha sido añadido exitosamente y se muestra en pantalla el elemento.
+5) Decorar a su gusto.
+
+
+
+------ Daniel ------
+-Actividad-Label (Input) - Campo de formulario
+---Button-----
